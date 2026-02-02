@@ -12,6 +12,7 @@ Currently learning step by step, prioritizing correctness, clarity, and discipli
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-1F1F1F?style=for-the-badge&logo=linux&logoColor=white)
